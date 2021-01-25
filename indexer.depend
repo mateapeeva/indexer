@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611593702 source:e:\matea\c++\indexer\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+
